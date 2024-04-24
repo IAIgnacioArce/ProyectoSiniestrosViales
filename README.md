@@ -1,7 +1,7 @@
 # Proyecto: Análisis de Homicidios en Siniestros Viales en CABA
 
 ## Introducción
-Este proyecto de análisis de datos simula el rol de un Data Analyst Senior en el equipo de analistas de datos de una empresa consultora contratada por el Observatorio de Movilidad y Seguridad Vial (OMSV), perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). El objetivo es proporcionar información para que las autoridades locales puedan tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales en CABA. Se emplea un conjunto de datos sobre homicidios en siniestros viales ocurridos en la Ciudad de Buenos Aires durante el periodo 2016-2021.
+Este proyecto de análisis de datos simula el rol de un Data Analyst en el equipo de analistas de datos de una empresa consultora contratada por el Observatorio de Movilidad y Seguridad Vial (OMSV), perteneciente a la Secretaría de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). El objetivo es proporcionar información para que las autoridades locales puedan tomar medidas efectivas para reducir la cantidad de víctimas fatales en siniestros viales en CABA. Se emplea un conjunto de datos sobre homicidios en siniestros viales ocurridos en la Ciudad de Buenos Aires durante el periodo 2016-2021.
 
 ## Contexto
 Los siniestros viales, también conocidos como accidentes de tráfico, son eventos que involucran vehículos en las vías públicas y pueden tener diversas causas y consecuencias, desde daños materiales hasta lesiones graves o fatales. En CABA, estos siniestros son una preocupación importante debido al alto volumen de tráfico y la densidad poblacional.
